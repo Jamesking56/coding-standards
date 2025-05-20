@@ -1,0 +1,13 @@
+{
+    "name": "jamesking.dev/coding-standards",
+    "description": "My personal code style preferences",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "James King",
+            "email": "james@jamesking.dev"
+        }
+    ],
+    "require": {}
+}
